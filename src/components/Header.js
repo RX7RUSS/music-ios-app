@@ -32,7 +32,8 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 2,
     borderWidth: 1,
-    borderColor: '#bbb'
+    borderColor: '#bbb',
+    borderRadius: 5,
   },
 });
 
